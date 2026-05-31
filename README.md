@@ -12,6 +12,7 @@
 ##  1. ADAS 차량용 임베디드 시스템 (부트캠프 프로젝트)
   기간: 2025.6 ~ 2025.8 (2개월)
   기술: STM32, FreeRTOS, Raspberry Pi, Telechips BOARD, W5500(TCP/IP), CAN
+  팀원: 5명
 
 ### 주요 역할 ( 팀장 )
 - 팀장 및 전체 시스템 구조 설계 및 개발 일정 관리
@@ -29,6 +30,7 @@
 ##  2. C 기반 2D 게임 프로젝트 (Allegro Engine - Awakening-Witch)
   기간: 2025.4 (7일)
   기술: C, Allegro5, Game Loop, Collision Detection
+  팀원: 4명
 
 ### 주요 역할 ( 팀원 )
 - C 기반 2D 게임 엔진 구조 설계
@@ -43,6 +45,7 @@
 ##  3. 졸업작품 - 스마트 우산 공유 시스템
   기간: 2024.2 ~ 2024.11 (9개월)  
   기술: Raspberry Pi, Firebase, IoT, Sensor, Cloud Database
+  팀원: 3명
 
 ### 주요 역할 ( 팀장 )
 - 팀장 및 전체 시스템 구조 설계 및 개발 일정 관리
