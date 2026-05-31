@@ -54,7 +54,7 @@
 
 ---
 
-#  Skills
+#  기술스택
 
 ### Embedded / System
 - STM32
@@ -79,10 +79,5 @@
 
 ---
 
-#  Core Strength
-
-- 차량용 임베디드 시스템 전체 구조 설계 경험
-- RTOS 기반 실시간 제어 시스템 구현
-- 하드웨어–소프트웨어 통합 개발 경험
-- 통신 기반 분산 시스템 구조 이해
-- AI 기반 영상 처리 파이프라인 최적화 경험
+# 임베디드 공부 notion 정리
+  [노션 링크](https://app.notion.com/p/1df697796dab80f3add1e376aad6ced5)
