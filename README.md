@@ -11,13 +11,14 @@
 
 ##  1. ADAS 차량용 임베디드 시스템 (부트캠프 프로젝트)
   기간: 2025.6 ~ 2025.8 (2개월)
-  기술: STM32, FreeRTOS, Raspberry Pi, Telechips BOARD, W5500, CAN
+  기술: STM32, FreeRTOS, Raspberry Pi, Telechips BOARD, W5500(TCP/IP), CAN
 
 ### 주요 역할 ( 팀장 )
 - 팀장 및 전체 시스템 구조 설계 및 개발 일정 관리
 - RTOS 기반 차량 중앙 제어 시스템 설계
 - SCC / LFA / MCB ADAS 기능 구현
 - W5500 기반 Ethernet 통신 및 차량 데이터 송수신
+- SocketCAN 기반 CAN 통신
 - Telechips 보드 포팅 및 시스템 최적화
 - UFLD 기반 차선 인식 및 전처리/후처리 최적화
 
@@ -33,7 +34,7 @@
 - C 기반 2D 게임 엔진 구조 설계
 - 플레이어 이동 / 공격 / 충돌 시스템 구현
 - 게임 상태 관리 및 UI 시스템 구현
-- 적 AI 및 스폰 시스템 설계
+- 적 및 스폰 시스템 설계
 
 👉 [프로젝트 상세 보기 - github 링크](https://github.com/SeungHyuk-Jin/Awakening-Witch)
 
