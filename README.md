@@ -10,8 +10,8 @@
 ---
 
 ##  1. ADAS 차량용 임베디드 시스템 (부트캠프 프로젝트)
-📅 기간: 2025.6 ~ 2025.8 (2개월)
-📍 기술: STM32, FreeRTOS, Raspberry Pi, Telechips BOARD, W5500, CAN
+  기간: 2025.6 ~ 2025.8 (2개월)
+  기술: STM32, FreeRTOS, Raspberry Pi, Telechips BOARD, W5500, CAN
 
 ### 주요 역할 ( 팀장 )
 - 팀장 및 전체 시스템 구조 설계 및 개발 일정 관리
@@ -21,13 +21,13 @@
 - Telechips 보드 포팅 및 시스템 최적화
 - UFLD 기반 차선 인식 및 전처리/후처리 최적화
 
-👉 [프로젝트 상세 보기](https://github.com/SeungHyuk-Jin/Telechips-ADAS-Project)
+👉 [프로젝트 상세 보기 - github 링크](https://github.com/SeungHyuk-Jin/Telechips-ADAS-Project)
 
 ---
 
 ##  2. C 기반 2D 게임 프로젝트 (Allegro Engine - Awakening-Witch)
-📅 기간: 2025.4 (7일)
-📍 기술: C, Allegro5, Game Loop, Collision Detection
+  기간: 2025.4 (7일)
+  기술: C, Allegro5, Game Loop, Collision Detection
 
 ### 주요 역할 ( 팀원 )
 - C 기반 2D 게임 엔진 구조 설계
@@ -35,13 +35,13 @@
 - 게임 상태 관리 및 UI 시스템 구현
 - 적 AI 및 스폰 시스템 설계
 
-👉 [프로젝트 상세 보기](https://github.com/SeungHyuk-Jin/Awakening-Witch)
+👉 [프로젝트 상세 보기 - github 링크](https://github.com/SeungHyuk-Jin/Awakening-Witch)
 
 ---
 
-## 🧠 3. 졸업작품 - 스마트 우산 공유 시스템
-📅 기간: 2024.2 ~ 2024.11 (9개월)  
-📍 기술: Raspberry Pi, Firebase, IoT, Sensor, Cloud Database
+##  3. 졸업작품 - 스마트 우산 공유 시스템
+  기간: 2024.2 ~ 2024.11 (9개월)  
+  기술: Raspberry Pi, Firebase, IoT, Sensor, Cloud Database
 
 ### 주요 역할 ( 팀장 )
 - 팀장 및 전체 시스템 구조 설계 및 개발 일정 관리
@@ -50,11 +50,11 @@
 - Raspberry Pi 기반 디바이스 제어 및 센서 데이터 수집
 - IoT 디바이스와 서버 간 데이터 연동 구조 설계
 
-👉 [프로젝트 상세 보기](https://github.com/SeungHyuk-Jin/Smart-Umbrella-Stand)
+👉 [프로젝트 상세 보기 - github 링크](https://github.com/SeungHyuk-Jin/Smart-Umbrella-Stand)
 
 ---
 
-# 🧩 Skills
+#  Skills
 
 ### Embedded / System
 - STM32
@@ -79,7 +79,7 @@
 
 ---
 
-# 📊 Core Strength
+#  Core Strength
 
 - 차량용 임베디드 시스템 전체 구조 설계 경험
 - RTOS 기반 실시간 제어 시스템 구현
